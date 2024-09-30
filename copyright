@@ -1,0 +1,9 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Korath Flares Redone
+Upstream-Contact: Daeridanii <daeridanii44@gmail.com>
+Source: https://github.com/Daeridanii1/korath-flares-redone
+
+Files:
+ images/effect/korath?flare/*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
